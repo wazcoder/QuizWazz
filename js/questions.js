@@ -1,4 +1,3 @@
-// creating an array and passing the number, questions, options, and answers
 let questions = [
     {
     numb: 1,
@@ -55,18 +54,4 @@ let questions = [
       "Sprint, Sprint planning, Daily Scrum, Sprint Review, Sprint Retrospective;"
     ]
   },
-  // puede descomentar los códigos a continuación y duplicarlos tanto como desee agregar una pregunta
-  // pero recuerde que debe dar el valor adormecido serializar como 1,2,3,5,6,7,8,9.....
-
-  //   {
-  //   numb: 6,
-  //   question: "Tu pregunta está aquí",
-  //   answer: "La respuesta correcta de la pregunta está aquí.",
-  //   options: [
-  //     "Opción 1",
-  //     "Opción 2",
-  //     "Opción 3",
-  //     "Opción 4"
-  //   ]
-  // },
 ];
