@@ -35,7 +35,7 @@ let questions = [
     {
     numb: 4,
     question: "¿Cual de los siguietes NO es un pricipio fundamental de kanban)?",
-    answer: "Agregar los permisos activos y no activos de los kanban",
+    answer: "Visualizar el flujo de trabajo",
     options: [
       "Agregar los permisos activos y no activos de los kanban",
       "Visualizar el flujo de trabajo",
@@ -52,6 +52,17 @@ let questions = [
       "Sprint code, Daily Scrum, Sprint Retrospective;",
       "Sprint, Backlog, Daily Scrum, Sprint code, Sprin type;",
       "Sprint, Sprint planning, Daily Scrum, Sprint Review, Sprint Retrospective;"
+    ]
+  },
+  {
+    numb: 6,
+    question: "¿Que es kanban?",
+    answer: "Es una metodología visual de gestión de proyectos y flujos de trabajo;",
+    options: [
+      "Es un diseño digital para seguir rutas de salida ;",
+      "Es una garantía laboral entre usuarios y clientes; ",
+      "Es una metodología visual de gestión de proyectos y flujos de trabajo;",
+      "Es un estandar obligatorio en industria para presentar trabajos;"
     ]
   },
 ];
